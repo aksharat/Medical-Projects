@@ -15,4 +15,7 @@ This notebook provides test results and evaluation metrics for the localization 
 ### 4. pneumothorax_segmentation.ipynb
 This project focuses on segmentation tasks, specifically targeting the detection and segmentation of pneumothorax conditions in chest X-ray images. The model is trained and tested on a relevant dataset to identify and segment pneumothorax regions.
 
+### 5. MedMNIST_2D_3D.ipynb
+This notebook explores both 2D and 3D medical image classification using the MedMNIST dataset. The notebook aims to replicate and build upon SOTA techniques for handling both 2D and 3D medical images, with a focus on diverse datasets and deep learning methods.
+
 
