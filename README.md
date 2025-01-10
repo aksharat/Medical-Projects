@@ -1,5 +1,5 @@
 # Medical-Projects
-Repository for all biomedical image processing projects, specifically in classification, localization, and segmentation. This repository is designed to replicate and build upon state-of-the-art (SOTA) results in these domains.
+Repository for all biomedical image processing projects, specifically in classification, localization, and segmentation. This repository is designed to replicate and build upon state-of-the-art (SOTA) results in these different domains.
 
 ## Notebooks
 
